@@ -1,0 +1,103 @@
+body {
+  /* background-color: wheat; */
+  /* background: url(../images/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: cover;
+  background-attachment: fixed; */
+}
+img {
+  width: 400px;
+  height: 400px;
+}
+/* img.solar {
+  width: 100px;
+  height: 100px;
+  filter: saturate(200%); */
+/* filter: sepia(100%) opacity(30%); */
+
+/* filter: hue-rotate(180deg); */
+/* filter: contrast(200%); */
+/* }
+img.solar:hover {
+  filter: drop-shadow(0 0 16px rgba(0, 0, 0, 0.5));
+} */
+/* .meal {
+  clip-path: polygon(
+    20% 0%,
+    0% 20%,
+    30% 50%,
+    0% 80%,
+    20% 100%,
+    50% 70%,
+    80% 100%,
+    100% 80%,
+    70% 50%,
+    100% 20%,
+    80% 0%,
+    50% 30%
+  );
+} */
+/* .meal {
+  filter: grayscale(70%); 
+  filter: invert(100%);
+} */
+/* .meal:hover {
+  filter: grayscale(70%) blur(0.5px);
+} */
+
+.bg-astronaut {
+  background: url("../images/css-sprite-combined.png") 0px -0px;
+  width: 128px;
+  height: 128px;
+  display: inline-block;
+}
+
+.bg-galaxy {
+  background: url("../images/css-sprite-combined.png") -128px -0px;
+  width: 128px;
+  height: 128px;
+  display: inline-block;
+}
+
+.bg-galaxy-full-circle {
+  background: url("../images/css-sprite-combined.png") -256px -0px;
+  width: 128px;
+  height: 128px;
+  display: inline-block;
+}
+
+.bg-planet {
+  background: url("../images/css-sprite-combined.png") -384px -0px;
+  width: 128px;
+  height: 128px;
+  display: inline-block;
+}
+
+.bg-planet-ball {
+  background: url("../images/css-sprite-combined.png") -512px -0px;
+  width: 128px;
+  height: 128px;
+  display: inline-block;
+}
+
+.bg-solar-system {
+  background: url("../images/css-sprite-combined.png") -640px -0px;
+  width: 128px;
+  height: 128px;
+  display: inline-block;
+}
+
+.bg-space-invaders {
+  background: url("../images/css-sprite-combined.png") -768px -0px;
+  width: 128px;
+  height: 128px;
+  display: inline-block;
+}
+
+.bg-startup {
+  background: url("../images/css-sprite-combined.png") -896px -0px;
+  width: 128px;
+  height: 128px;
+  display: inline-block;
+}
