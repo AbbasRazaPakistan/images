@@ -1,5 +1,5 @@
 body {
-  /* background-color: wheat; */
+  background-color: wheat;
   /* background: url(../images/bg.jpg);
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -7,7 +7,7 @@ body {
   background-attachment: fixed; */
 }
 img {
-  width: 400px;
+  width: 100vw;
 }
 /* img.solar {
   width: 100px;
